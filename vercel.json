@@ -1,0 +1,10 @@
+{
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://poplme.co/djmateo904",
+      "permanent": true
+    }
+  ]
+}
